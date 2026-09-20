@@ -609,7 +609,7 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
-        },
+        }
     ],
     "rules": [
         {
