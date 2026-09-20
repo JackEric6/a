@@ -1,6 +1,6 @@
 
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/movie/main/spider2.jar;md5;8e8a7c81f650553aa83ae2674c3f24b4",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/JackEric6/a/main/b;md5;8e8a7c81f650553aa83ae2674c3f24b4",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
@@ -41,7 +41,7 @@
         },
         {
             "key": "玩偶",
-            "name": "👽玩偶哥哥┃4K弹幕",
+            "name": "👽玩偶┃4K弹幕",
             "type": 3,
             "api": "csp_WoGGGuard",
             "timeout": 30,
