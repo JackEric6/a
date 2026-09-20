@@ -610,16 +610,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
-        {
-            "key": "cc",
-            "name": "请勿信视频中任何广告",
-            "type": 3,
-            "api": "csp_XPathGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        }
-    ],
+       
     "rules": [
         {
             "name": "cdn.ryplay",
