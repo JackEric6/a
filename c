@@ -1,6 +1,6 @@
 
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/JackEric6/a/main/recovered-spider-1.0-recovered.jar;md5;9f4e26c207721cff63a4ad2744778913",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0-cncn-inplace.jar;md5;93e1fcea57046352bd6862608416d90a",
     "wallpaper": "https://x.gd/9Yvdm",
     "sites": [
         {
