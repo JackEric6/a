@@ -1,6 +1,6 @@
 
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0.1-cncn.jar;md5;3ff83205269b1b06c16485eb5de7f184",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0.5-cncn.jar;md5;fc12628eaa319dffd73f7ef39c25d789",
     "wallpaper": "https://x.gd/9Yvdm",
     "sites": [
         {
@@ -608,6 +608,20 @@
             "quickSearch": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
+            }
+        },
+        {
+            "key": "Olevod",
+            "name": "🎬欧乐┃不卡",
+            "type": 3,
+            "api": "csp_OlevodGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "siteUrl": "https://olevod.com/"
             }
         }
     ],
