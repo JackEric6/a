@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "天才自用点播源",
+            "name": "1天才自用点播源",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
