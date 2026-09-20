@@ -1,6 +1,6 @@
 
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0-cncn.jar;md5;6dad58f0ac3cc3c59d6637350f5042a9",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0-cncn.jar;md5;89f760ee5c0f42fa509a843a99b662ce",
     "wallpaper": "https://x.gd/9Yvdm",
     "sites": [
         {
