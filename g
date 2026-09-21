@@ -1,6 +1,6 @@
-//发行版本 24
+//发行版
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.2.9-cncn.jar;md5;074008c4071046aabd0c47850c7edb17",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.2.2-cncn.jar;md5;bee5a1ef0b90078b719a60a96562bdc2",
     "wallpaper": "https://x.gd/9Yvdm",
     "sites": [
         {
