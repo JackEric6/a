@@ -1,6 +1,6 @@
 
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.0.5-cncn.jar;md5;fc12628eaa319dffd73f7ef39c25d789",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/JackEric6/a/main/spider-recovered-1.2.2-cncn.jar;md5;bee5a1ef0b90078b719a60a96562bdc2",
     "wallpaper": "https://x.gd/9Yvdm",
     "sites": [
         {
@@ -611,6 +611,20 @@
             }
         },
         {
+            "key": "Ikanbot",
+            "name": "🤖爱看┃多线路",
+            "type": 3,
+            "api": "csp_IkanbotGuard",
+            "timeout": 20,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "siteUrl": "https://www1.ikanbot.com/"
+            }
+        },
+        {
             "key": "Olevod",
             "name": "🎬欧乐┃不卡",
             "type": 3,
@@ -692,3 +706,7 @@
         }
     ]
 }
+
+
+
+
